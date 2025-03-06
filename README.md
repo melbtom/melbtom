@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melbtom
 - 👀 I’m interested in new innovative projects 
-- 🌱 I’m currently learning Python,SQL,Jinja,Pandas,Numpy,AWS(athena,S3,Airflow),GitHub
+- 🌱 I’m currently learning Python,SQL,Pandas,Numpy,AWS(athena,S3,Airflow),GitHub
 - 📫 How to reach me on +14379852970
 
 <!---
